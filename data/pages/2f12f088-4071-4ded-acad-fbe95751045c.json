@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-06T20:25:18.900Z",
+  "created_by": "JMU-AudiAnnotate",
+  "title": "FF0067",
+  "slug": "ff0067",
+  "updated_at": "2025-03-06T20:25:18.900Z",
+  "updated_by": "JMU-AudiAnnotate",
+  "parent": "5419606d-ba62-48d9-9359-d4f94005f755",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "1b37ecca-4906-4aeb-b54a-75da22d6569f"
+  }
+}
